@@ -1,0 +1,19 @@
+.mp{background-color: rgb(0, 0, 0);
+color: white;
+width: 270px;
+margin: 0 auto 20px;
+padding: 10px;}
+.d{background-color:black ; 
+border: 6px solid;
+margin: 0 auto;
+height: 100px; width: 500px;}
+.i{background-color:aquamarine; 
+padding: 20px 15px;
+margin: 10 auto; border: 18px solid rgb(10, 0, 0);}
+.v{background-color:aquamarine;
+    background-color:aquamarine; 
+        padding: 20px 15px;
+        margin:     10 auto; border: 18px solid rgb(0, 0, 0);}
+
+
+
